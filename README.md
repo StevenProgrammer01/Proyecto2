@@ -1,6 +1,6 @@
 # Proyecto2
 MI primer rpsitorio Github
- Author: Steven Pérez
+
 
 
 Hola Steven te acuerdas cuando empezamos este largo camino...
